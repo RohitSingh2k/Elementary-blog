@@ -10,7 +10,7 @@ Elementary OS is Ubuntu base great LINUX distro, a good choice for STUDENTS and 
 ### 1) Install dimmer App from app store : -
 In many hardware there may have some brightness issue, to fix this download Dimmer app. It is very easy to use. Download it from app center.
 ![Photo](https://appstream.elementary.io/appcenter/media/bionic/com/github/panosx2.brightness/2FFAC77CF086C249EA237A5F986AA037/screenshots/image-1_orig.png)
->>>![app](https://appstream.elementary.io/appcenter/media/bionic/com/github/panosx2.brightness/2FFAC77CF086C249EA237A5F986AA037/icons/64x64/com.github.panosx2.brightness_com.github.panosx2.brightness.png)
+![app](https://appstream.elementary.io/appcenter/media/bionic/com/github/panosx2.brightness/2FFAC77CF086C249EA237A5F986AA037/icons/64x64/com.github.panosx2.brightness_com.github.panosx2.brightness.png)
 
 ### 2) App Store error fixing : -
 

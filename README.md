@@ -4,7 +4,7 @@
 
 [![desktop](https://elementary.io/images/screenshots/desktop.jpg)](https://youtu.be/XS6sPxcYd5Q)
 
-Elementary OS is Ubuntu base great LINUX distro, a good choice for STUDENTS and Mamy peoples as well. It's just like MAC OS but It is much more better than this. It is a light Weight linux System Allows you to work faster and It comes with cool animations.
+Elementary OS is Ubuntu base great LINUX distro, a good choice for STUDENTS and Many people as well. It's just like MAC OS but It is much better than that. It is a light Weight linux Distro Allows you to work faster and It comes with cool animations in it.
 ## Here are few things you need to do after downloading Elementary OS :-)
 
 ### 1) Install dimmer App from app store : -
@@ -47,7 +47,7 @@ This pakag will show your system config ina very cool way
 
 ### 6) Install foremost : -
 It often occur that you may delete some relevent files from a directory, that will cause really a problem. Here is the solution you just need to download a famous data recovery tool "foremost". It will help you to recover all your deleted data.
-* type `sudo apt install foremost` them type `y`
+* type `sudo apt install foremost` then type `y`
 * how to use it - 
 * 
  For this scenario, we have kept an image named ‘dan.jpg ’ on our system. We will now delete it from the system with the following command,

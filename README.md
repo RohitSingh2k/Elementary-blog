@@ -1,5 +1,5 @@
 # 10 Things to do after installing [Elementary OS](https://elementary.io/)
- #####  Written By Rohit Singh on 26 April 2020
+#### Written By Rohit Singh on 26 April 2020
 ---
 
 [![desktop](https://elementary.io/images/screenshots/desktop.jpg)](https://youtu.be/XS6sPxcYd5Q)

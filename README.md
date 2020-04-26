@@ -1,4 +1,4 @@
-# 10 Things to do after installing [Elentary OS](https://elementary.io/)
+# 10 Things to do after installing [Elementary OS](https://elementary.io/)
  #####  Written By Rohit Singh on 26 April 2020
 ---
 
@@ -14,7 +14,7 @@ In many hardware there may have some brightness issue, to fix this download Dimm
 
 ### 2) App Store error fixing : -
 
-Some of you might face an error in app stotre like 
+Some of you might face an error in app store like 
 
 ![error](https://i.stack.imgur.com/uG4SU.jpg)
 
